@@ -1,5 +1,6 @@
 from django.db import models
 
+# Create Model Of The Post
 class Post(models.Model):
     class Meta:
         verbose_name = ('Post')

@@ -16,10 +16,10 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 
-# переходить на backend(8000 порт) можно только по этим двум адрессам
+
 urlpatterns = [
-    # админка для добавления постов
+    # Admin Page
     path('admin/', admin.site.urls),
-    # API с постами
+    # API With Posts
     path('api/', include('posts.urls'))
 ]
