@@ -2,7 +2,7 @@
 
 **This API is for the [frontend part](https://github.com/Litv1n/vue-frontend) of the project.**
 
-**Full project deployed on the [heroku server](https://withered-firefly-7020.herokuapp.com/) as well as the [backend part](https://young-garden-17464.herokuapp.com/api/posts/).
+**Full project deployed on the [heroku server](https://withered-firefly-7020.herokuapp.com/) as well as the [backend part](https://young-garden-17464.herokuapp.com/api/posts/).**
 
 # Pre-setup
 
